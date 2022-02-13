@@ -1,16 +1,25 @@
-# best_flutter_ui_templates
+## CONTROL DE MANTENIMIENTO A EQUIPOS DE TRANSPORTE
+Gestiona las solicitudes, autorización y operación de 
+lo smantenimientos preventivos y correctivos de tus
+vehículos desde la APP
 
-A new Flutter project.
+La información viajara al ERP registrando y dando
+seguimiento a las ordenes y actualizando los gastos y
+el costo del activo así como el calendario de los
+mantenimientos programados
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![CHEESE!](assets/llantas.png)
 
-A few resources to get you started if this is your first Flutter project:
+## REPORTES DE DOCUMENTACIÓN ENTREGADA POR ALUMNO
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![CHEESE!](assets/solicitud.png)
+
+
+
+
+### `npm start`
+
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
