@@ -9,12 +9,19 @@ el costo del activo así como el calendario de los
 mantenimientos programados
 
 
+![CHEESE!](assets/solicitud.png)
+Filtro por estatus
+![CHEESE!](assets/filtro.png)
+Agrega Avidencia
+![CHEESE!](assets/anexo.png)
+
+
+## CONTRÒL DE LLANTAS
+
+Administra llantas por vehiculo
 ![CHEESE!](assets/llantas.png)
 
-## REPORTES DE DOCUMENTACIÓN ENTREGADA POR ALUMNO
 
-
-![CHEESE!](assets/solicitud.png)
 
 
 
