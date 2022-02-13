@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "484029367564",
+    "project_id": "mantenimiento-6b844",
+    "storage_bucket": "mantenimiento-6b844.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484029367564:android:67b63ee79b6df9f500b529",
+        "android_client_info": {
+          "package_name": "com.maserp.Mantenimiento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484029367564-lm2mndhnpng4fvm94b72cttv01aas1r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYU7BM5YNvSCdMRXfQBTtfy7y1yvnUg-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484029367564-lm2mndhnpng4fvm94b72cttv01aas1r7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484029367564-rnk9so6ta0bbs4k5ulbe0eo5rbl6odc1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mx.maserp.Manteniiento"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
